@@ -1,0 +1,17 @@
+{
+    "name": "aluno/exercicio-2-srp",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Barbs.Dani",
+            "email": "Barbs.Dani@unimar.br"
+        }
+    ],
+    "require": {}
+}

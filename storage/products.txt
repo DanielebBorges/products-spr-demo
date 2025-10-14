@@ -1,0 +1,3 @@
+{"name":"camiseta","price":"56","id":1}
+{"name":"teclado","price":"1199.90","id":2}
+{"name":"mouse","price":"50","id":3}
